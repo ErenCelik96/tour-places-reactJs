@@ -1,0 +1,9 @@
+ .headerContainer{
+    background-color: #BAE3F6;
+    text-align: center;
+    padding-top: 20px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
