@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ErenCelik96/tour-places-reactJs.git/static/css/main.8a144064.chunk.css",
-    "main.js": "/ErenCelik96/tour-places-reactJs.git/static/js/main.fb26a8b6.chunk.js",
-    "main.js.map": "/ErenCelik96/tour-places-reactJs.git/static/js/main.fb26a8b6.chunk.js.map",
-    "runtime-main.js": "/ErenCelik96/tour-places-reactJs.git/static/js/runtime-main.01ce8c89.js",
-    "runtime-main.js.map": "/ErenCelik96/tour-places-reactJs.git/static/js/runtime-main.01ce8c89.js.map",
-    "static/js/2.360f233a.chunk.js": "/ErenCelik96/tour-places-reactJs.git/static/js/2.360f233a.chunk.js",
-    "static/js/2.360f233a.chunk.js.map": "/ErenCelik96/tour-places-reactJs.git/static/js/2.360f233a.chunk.js.map",
-    "index.html": "/ErenCelik96/tour-places-reactJs.git/index.html",
-    "static/css/main.8a144064.chunk.css.map": "/ErenCelik96/tour-places-reactJs.git/static/css/main.8a144064.chunk.css.map",
-    "static/js/2.360f233a.chunk.js.LICENSE.txt": "/ErenCelik96/tour-places-reactJs.git/static/js/2.360f233a.chunk.js.LICENSE.txt"
+    "main.css": "/tour-places-reactJs/static/css/main.8a144064.chunk.css",
+    "main.js": "/tour-places-reactJs/static/js/main.53cb19d7.chunk.js",
+    "main.js.map": "/tour-places-reactJs/static/js/main.53cb19d7.chunk.js.map",
+    "runtime-main.js": "/tour-places-reactJs/static/js/runtime-main.be24cfb0.js",
+    "runtime-main.js.map": "/tour-places-reactJs/static/js/runtime-main.be24cfb0.js.map",
+    "static/js/2.360f233a.chunk.js": "/tour-places-reactJs/static/js/2.360f233a.chunk.js",
+    "static/js/2.360f233a.chunk.js.map": "/tour-places-reactJs/static/js/2.360f233a.chunk.js.map",
+    "index.html": "/tour-places-reactJs/index.html",
+    "static/css/main.8a144064.chunk.css.map": "/tour-places-reactJs/static/css/main.8a144064.chunk.css.map",
+    "static/js/2.360f233a.chunk.js.LICENSE.txt": "/tour-places-reactJs/static/js/2.360f233a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.01ce8c89.js",
+    "static/js/runtime-main.be24cfb0.js",
     "static/js/2.360f233a.chunk.js",
     "static/css/main.8a144064.chunk.css",
-    "static/js/main.fb26a8b6.chunk.js"
+    "static/js/main.53cb19d7.chunk.js"
   ]
 }
